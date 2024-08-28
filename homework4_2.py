@@ -17,6 +17,6 @@ while True:
                 print('The divisor cannot be equal to 0')
         case _:
             print('Incorrect symbol')
-    next_calc = input('if you want to continue - write \'yes\'. And if you want exit - write something else')
+    next_calc = input('if you want to continue - write \'yes\'. And if you want exit - write something else ')
     if next_calc != 'yes':
         break
